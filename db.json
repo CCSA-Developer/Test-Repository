@@ -39,6 +39,24 @@
       "date": "August 22, 2022",
       "time": "1:00",
       "organizer": "Becky Becky"
+    },{
+      "id": 131415,
+      "category": "animal welfare",
+      "title": "Dog Adoption Day",
+      "description": "Adopt your new dog friend today.",
+      "location": "Durham",
+      "date": "August 10, 2022",
+      "time": "12:00",
+      "organizer": "Jenny Peters"
+    },{
+      "id": 161718,
+      "category": "animal welfare",
+      "title": "Owl Prowl",
+      "description": "Nature walk looking for owls.",
+      "location": "Chapel Hill",
+      "date": "Sept 20, 2022",
+      "time": "17:00",
+      "organizer": "Matt Goeke"
     }
   ]
 }
