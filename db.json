@@ -29,6 +29,16 @@
       "date": "July 22, 2022",
       "time": "11:00",
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 101112,
+      "category": "animal welfare",
+      "title": "Turtle Watch",
+      "description": "Watch for hatching turtle egges.",
+      "location": "Oak Island",
+      "date": "August 22, 2022",
+      "time": "1:00",
+      "organizer": "Becky Becky"
     }
   ]
 }
